@@ -1,0 +1,6 @@
+{
+  "name": "Minuto90",
+  "description": "Plataforma premium para digitalizar y automatizar la quiniela del Mundial 2026, con portal de pagos, inmutabilidad de apuestas y tabla de posiciones en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
